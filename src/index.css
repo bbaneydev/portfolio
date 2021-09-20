@@ -16,3 +16,7 @@
 .home-name {
   font-size: 150px;
 }
+
+#about {
+  height: 100vh;
+}
